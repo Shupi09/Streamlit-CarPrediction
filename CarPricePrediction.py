@@ -5,7 +5,8 @@ import os
 
 import gdown
 
-drive_url = 'https://drive.google.com/uc?id=1i2Gat4tc89jNmm20JUUwz-UHSscoc3or' # Replace with your file's actual ID
+drive_url = drive_url = 'https://drive.google.com/uc?id=1u0cilrHNwD7G-xVu8IKswj2_0tf9CdoU&confirm=t'
+ # Replace with your file's actual ID
 filename = 'rf_pipeline.pkl'
 
 
